@@ -1,0 +1,30 @@
+Execution for 3 transit nodes:
+Time of execution: 0.00565863699921465 secs
+Minimized transit load = 130.666667
+Number of links with non-zero capacities: 42
+Highest capacity: 26.0 held by ['c71', 'c72', 'c73', 'd17', 'd27', 'd37']
+
+Execution for 4 transit nodes:
+Time of execution: 0.06536109700027737 secs
+Minimized transit load = 98.0
+Number of links with non-zero capacities: 56
+Highest capacity: 26.0 held by ['c72', 'd27']
+
+Execution for 5 transit nodes:
+Time of execution: 0.03804700700129615 secs
+Minimized transit load = 78.666667
+Number of links with non-zero capacities: 70
+Highest capacity: 26.0 held by ['d37']
+
+Execution for 6 transit nodes:
+Time of execution: 0.07548302199938917 secs
+Minimized transit load = 65.333333
+Number of links with non-zero capacities: 80
+Highest capacity: 21.0 held by ['d26']
+
+Execution for 7 transit nodes:
+Time of execution: 0.09439962299984472 secs
+Minimized transit load = 56.0
+Number of links with non-zero capacities: 93
+Highest capacity: 19.0 held by ['c72', 'c75', 'd37']
+
